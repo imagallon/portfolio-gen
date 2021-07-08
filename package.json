@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagallon/portfolio-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imagallon/portfolio-gen/issues"
+  },
+  "homepage": "https://github.com/imagallon/portfolio-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
